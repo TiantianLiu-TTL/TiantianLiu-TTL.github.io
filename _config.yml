@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiantian Liu"
+title                    : "Tiantian Liu's Personal Page"
 title_separator          : "-"
-name                     : &name "Tiantian Liu's Personal Page"
-description              : &description "Ph.D. fellow in Computer Science, Aalborg University"
+name                     : &name "Tiantian Liu"
+description              : &description "PhD fellow in Computer Science, Aalborg University"
 url                      : https://TiantianLiu-TTL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TiantianLiu-TTL.github.io"

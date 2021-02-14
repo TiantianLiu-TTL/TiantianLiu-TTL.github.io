@@ -20,6 +20,7 @@ Education
 
 Publications
 ======
+See my [VBN at AAU](https://vbn.aau.dk/en/persons/145323)
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. Accepted by EDBT 2021.
 * Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.
 * Zijin Feng, Tiantian Liu, Huan Li, Hua Lu, Lidan Shou, Jianliang Xu. Indoor Top-k Keyword-aware Routing Query. ICDE 2020: 1213-1224.

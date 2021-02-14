@@ -14,9 +14,9 @@ My research generally concerns data management, spatial database, data science a
 
 Education
 ======
-* B.S. in Communication Engineering, Jilin University, China, 2015.
-* M.S. in Computer Science and Technology, Jilin University, China, 2018.
 * Ph.D in Computer Science, Aalborg University, Denmark, 2021 (expected).
+* M.S. in Computer Science and Technology, Jilin University, China, 2018.
+* B.S. in Communication Engineering, Jilin University, China, 2015.
   
 Skills
 ======

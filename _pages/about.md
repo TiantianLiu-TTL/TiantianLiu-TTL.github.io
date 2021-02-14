@@ -31,6 +31,5 @@ Teaching
   
 Project
 ======
-Data Management Foundations for Indoor LBS.
 [Data Management Foundations for Indoor LBS](https://indoorlbs.github.io)
   

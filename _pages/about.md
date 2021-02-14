@@ -26,12 +26,16 @@ Skills
 
 Publications
 ======
-  1. Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. Accepted by EDBT 2021.
-  2. Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.
-  3. Zijin Feng, Tiantian Liu, Huan Li, Hua Lu, Lidan Shou, Jianliang Xu. Indoor Top-k Keyword-aware Routing Query. ICDE 2020: 1213-1224.
+* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. Accepted by EDBT 2021.
+* Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.
+* Zijin Feng, Tiantian Liu, Huan Li, Hua Lu, Lidan Shou, Jianliang Xu. Indoor Top-k Keyword-aware Routing Query. ICDE 2020: 1213-1224.
   
 Teaching
 ======
-  1. Teaching assistant for Database Development, Aalborg University, 2019-2020.
-  2. Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
+* Teaching assistant for Database Development, Aalborg University, 2019-2020.
+* Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
+  
+Project
+======
+Data Management Foundations for Indoor LBS.
   

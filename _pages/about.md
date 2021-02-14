@@ -17,12 +17,6 @@ Education
 * Ph.D in Computer Science, Aalborg University, Denmark, 2021 (expected).
 * M.S. in Computer Science and Technology, Jilin University, China, 2018.
 * B.S. in Communication Engineering, Jilin University, China, 2015.
-  
-Skills
-======
-* Programming: Python, Java, Matlab, HTML, CSS
-* Database: MYSQL
-* Typography: LaTeX,  Microsoft Office
 
 Publications
 ======
@@ -38,4 +32,5 @@ Teaching
 Project
 ======
 Data Management Foundations for Indoor LBS.
+[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io)
   

@@ -21,6 +21,7 @@ Education
 Publications
 ======
 See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323)
+* Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Towards Indoor Temporal-variation aware Shortest Path Query. Accepted by TKDE 2021.
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning. Accepted by PVLDB 2021.
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. Accepted by EDBT 2021.
 * Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.

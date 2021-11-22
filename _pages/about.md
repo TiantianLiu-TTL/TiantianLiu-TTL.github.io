@@ -49,4 +49,12 @@ Teaching
 Project
 ======
 [Data Management Foundations for Indoor LBS](https://indoorlbs.github.io)
+
+Professional Services
+======
+Journal/Conference External Reviewer
+
+2021: TKED, VLDB, SIGKDD, SIGSPATIAL
+2020: ICDE, KDD, SIGSPATIAL, CIKM, MDM, DASFAA, IEEE BigData, TheWebConf
+2019: KDD, CIKM, SIGSPATIAL
   

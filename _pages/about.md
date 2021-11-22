@@ -18,6 +18,11 @@ Education
 * MSc in Computer Science and Technology, Jilin University, China, 2018.
 * BSc in Communication Engineering, Jilin University, China, 2015.
 
+International Study Experience
+=====
+* \item Apr. 2021 - Aug. 2021: Abroad (virtual) stay in the Faculty of Information Technology, Monash University, Australia.
+* \item Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia.
+
 Publications
 ======
 See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323)

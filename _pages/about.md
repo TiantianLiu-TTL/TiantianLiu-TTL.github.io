@@ -20,8 +20,8 @@ Education
 
 International Study Experience
 =====
-* \item Apr. 2021 - Aug. 2021: Abroad (virtual) stay in the Faculty of Information Technology, Monash University, Australia.
-* \item Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia.
+* Apr. 2021 - Aug. 2021: Abroad (virtual) stay in the Faculty of Information Technology, Monash University, Australia.
+* Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia.
 
 Publications
 ======

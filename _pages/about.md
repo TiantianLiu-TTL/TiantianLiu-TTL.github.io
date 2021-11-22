@@ -21,12 +21,19 @@ Education
 Publications
 ======
 See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323)
+Peer-Reviewed Journal Articles
 * Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Towards Indoor Temporal-variation aware Shortest Path Query. IEEE Transactions on Knowledge and Data Engineering (TKDE), 14 pages, 2021. (to appear)
-* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning. Proceedings of the 47th International Conference on Very Large Data Bases (PVLDB), 13 pages, 2021. (to appear)
+* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning. Proceedings of the 47th International Conference on Very Large Data Bases (PVLDB), 2021: 1365-1377.
+
+Peer-Reviewed Conference Papers
+* Harry Kai-Ho Chan, Tiantian Liu, Huan Li, Hua Lu. Time-Constrained Indoor Keyword-aware Routing. Proceedings of the 17th International Symposium on Spatial and Temporal Databases (SSTD), 2021: 74-84. (Best paper nomination)
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. EDBT 2021: 181-192.
-* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020)
 * Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.
 * Zijin Feng, Tiantian Liu, Huan Li, Hua Lu, Lidan Shou, Jianliang Xu. Indoor Top-k Keyword-aware Routing Query. ICDE 2020: 1213-1224.
+
+Technical Reports
+* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning(Extended Version). CoRR abs/2104.05480 (2021).
+* Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020)
   
 Teaching
 ======

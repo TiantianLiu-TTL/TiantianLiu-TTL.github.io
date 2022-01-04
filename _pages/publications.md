@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+See my [DBLP](https://dblp.org/pid/85/7672-3.html) and [Google Scholar](https://scholar.google.com/citations?user=vXLLTBMAAAAJ&hl=en&oi=ao)).
+
 ### Peer-Reviewed Journal Articles
 
 * __Tiantian Liu__, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Towards Indoor Temporal-variation aware Shortest Path Query. IEEE Transactions on Knowledge and Data Engineering (__TKDE__), 14 pages, 2021. (to appear) (__CCF A__)

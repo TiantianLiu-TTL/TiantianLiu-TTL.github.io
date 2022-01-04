@@ -59,6 +59,6 @@ Journal/Conference External Reviewer
 Contact
 ======
 * Email: liutt@cs.aau.dk
-* Address: Selma Lagerløfs Vej 300, 3-2-12, 9220 Aalborg Ø, Denmark
 * Tel: +45 50288578
+* Address: Selma Lagerløfs Vej 300, 3-2-12, 9220 Aalborg Ø, Denmark
   

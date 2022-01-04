@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD fellow in the Department of Computer Science, Aalborg University.  I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China. 
+I am a PhD fellow under Professor [Hua Lu](https://luhua.ruc.dk/)'s supervision in the Department of Computer Science, Aalborg University.  I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China. 
 
-My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on queries for indoor location-based services (LBSs). Indoor LBSs are useful and valuable in different domains---indoor navigation, information acquisition, monitoring and management, emergency response and entertainment. Indoor queries form an important aspect for indoor LBSs. My current work focuses on indoor queries to provide better indoor LBSs.
+My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on queries for indoor location-based services (LBSs). Indoor LBSs are useful and valuable in different domains---indoor navigation, information acquisition, monitoring and management, emergency response and entertainment. Indoor queries form an important aspect for indoor LBSs. My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
 
 Education
 ======
@@ -32,6 +32,7 @@ Peer-Reviewed Journal Articles
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning. Proceedings of the 47th International Conference on Very Large Data Bases (PVLDB), 2021: 1365-1377.
 
 Peer-Reviewed Conference Papers
+* Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Lidan Shou, and Jianliang Xu, "IKAROS: An Indoor Keyword-Aware Routing System," accepted by ICDE (Demo Paper).
 * Harry Kai-Ho Chan, Tiantian Liu, Huan Li, Hua Lu. Time-Constrained Indoor Keyword-aware Routing. Proceedings of the 17th International Symposium on Spatial and Temporal Databases (SSTD), 2021: 74-84. (Best paper nomination)
 * Tiantian Liu, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. EDBT 2021: 181-192.
 * Tiantian Liu, Zijin Feng, Huan Li, Hua Lu, Muhammad Aamir Cheema, Hong Cheng, Jianliang Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. ICDE 2020: 2014-2017.

@@ -86,9 +86,9 @@ author:
   location         : "Aalborg, Denmark" #"Selma Lagerløfs Vej 300, 3-2-50, 9220 Aalborg Ø, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=vXLLTBMAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Tiantian-Liu-22"
   uri              :
   bitbucket        :
   codepen          :

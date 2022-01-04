@@ -24,8 +24,8 @@ Technical Reports
 * __Tiantian Liu__, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020)
 
 
-<!-- test -->
-<!-- {% if author.googlescholar %}
+test
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -33,4 +33,4 @@ Technical Reports
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}

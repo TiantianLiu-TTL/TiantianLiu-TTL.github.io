@@ -55,4 +55,10 @@ Journal/Conference External Reviewer
 * 2021: TKED, VLDB, SIGKDD, SIGSPATIAL
 * 2020: ICDE, KDD, SIGSPATIAL, CIKM, MDM, DASFAA, IEEE BigData, TheWebConf
 * 2019: KDD, CIKM, SIGSPATIAL
+
+Contact
+======
+* Email: liutt@cs.aau.dk
+* Address: Selma Lagerløfs Vej 300, 3-2-12, 9220 Aalborg Ø, Denmark
+* Tel: +45 50288578
   

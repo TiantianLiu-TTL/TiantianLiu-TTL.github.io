@@ -10,7 +10,9 @@ redirect_from:
 
 I am a PhD fellow under Professor [Hua Lu](https://luhua.ruc.dk/)'s supervision in the Department of Computer Science, Aalborg University.  I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China. My research generally concerns data management, spatial database, data science and data mining. 
 
-Recently, I have been working on queries for indoor location-based services (LBSs). Indoor LBSs are useful and valuable in different domains---indoor navigation, information acquisition, monitoring and management, emergency response and entertainment. Indoor queries form an important aspect for indoor LBSs. My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
+Recently, I have been working on queries for indoor location-based services (LBSs). Indoor LBSs are useful and valuable in different domains---indoor navigation, information acquisition, monitoring and management, emergency response and entertainment. Indoor queries form an important aspect for indoor LBSs. 
+
+My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
 
 Education
 ======

@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Tiantian Liu"
-excerpt: "Tiantian Liu"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tiantian Liu's Personal Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tiantian Liu"
 description              : &description "PhD fellow in Computer Science, Aalborg University"

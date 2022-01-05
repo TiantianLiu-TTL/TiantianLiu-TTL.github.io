@@ -13,7 +13,7 @@ I am a PhD fellow in the Department of Computer Science, Aalborg University (adv
 My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on queries for indoor location-based services (LBSs). My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
 
 News
-======
+===
 \[2022-01\] Our demo paper is accepted by ICDE.
 
 <!-- Education
@@ -28,7 +28,7 @@ News
 * Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia. -->
 
 Selected Recent Publications
-======
+===
 <!-- See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323) -->
 
 * __T. Liu__, Z. Feng, H. Li, H. Lu, L. Shou, and J. Xu, "IKAROS: An Indoor Keyword-Aware Routing System," accepted by __ICDE__, 2022 (Demo Paper). (__CCF A__)
@@ -44,16 +44,16 @@ Selected Recent Publications
 * __Tiantian Liu__, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020) -->
   
 Teaching
-======
+===
 * Teaching assistant for Database Development, Aalborg University, 2019-2020.
 * Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
   
 Project
-======
+===
 [Data Management Foundations for Indoor LBS](https://indoorlbs.github.io)
 
 Professional Services
-======
+===
 Journal/Conference External Reviewer
 
 * 2021: TKED, VLDB, SIGKDD, SIGSPATIAL
@@ -61,7 +61,7 @@ Journal/Conference External Reviewer
 * 2019: KDD, CIKM, SIGSPATIAL
 
 Contact
-======
+===
 * Email: liutt@cs.aau.dk
 * Tel: +45 50288578
 * Address: Selma Lagerløfs Vej 300, 3-2-12, 9220 Aalborg Ø, Denmark

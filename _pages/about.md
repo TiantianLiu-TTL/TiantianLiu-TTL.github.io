@@ -12,6 +12,10 @@ I am a PhD fellow in the Department of Computer Science, Aalborg University (adv
 
 My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on queries for indoor location-based services (LBSs). My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
 
+News
+======
+\[2022-01\] Our demo paper is accepted by ICDE.
+
 <!-- Education
 ======
 * PhD in Computer Science, Aalborg University, Denmark, 2022 (expected).

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See my [DBLP](https://dblp.org/pid/85/7672-3.html) and [Google Scholar](https://scholar.google.com/citations?user=vXLLTBMAAAAJ&hl=en&oi=ao).
+See my [DBLP](https://dblp.org/pid/85/7672-3.html), [Google Scholar](https://scholar.google.com/citations?user=vXLLTBMAAAAJ&hl=en&oi=ao) and [VBN](https://vbn.aau.dk/en/persons/145323) at AAU.
 
 ### Peer-Reviewed Journal Articles
 

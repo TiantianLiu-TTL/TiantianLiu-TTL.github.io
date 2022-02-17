@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD fellow in the Department of Computer Science, Aalborg University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China.
 
-My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on queries for indoor location-based services (LBSs). My current work focuses on AI for shortest path query which is aim to improve the performance of query processing using AI models.
+My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI Models for Path Planning Problem which aims to improve the performance of searching algorithms using AI models.
 
 News
 ===

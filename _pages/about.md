@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD fellow in the Department of Computer Science, Aalborg University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China.
+I am a postdocal researcher in the Department of People and Technology, Roskilde University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained the Ph.D. degree from Aalborg University in 2022.  I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China.
 
-My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI Models for Path Planning Problem which aims to improve the performance of searching algorithms using AI models.
+My research generally concerns data management, spatial database, data science and data mining. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on very large graphs.
 
 News
 ===
+\[2022-04\] I joined Roskilde University.
+\[2022-04\] I successfully defensed my thesis at Aalborg University.
 \[2022-01\] Our demo paper is accepted by ICDE.
 
 <!-- Education
 ======
-* PhD in Computer Science, Aalborg University, Denmark, 2022 (expected).
+* PhD in Computer Science, Aalborg University, Denmark, 2022.
 * MSc in Computer Science and Technology, Jilin University, China, 2018.
 * BSc in Communication Engineering, Jilin University, China, 2015. -->
 
@@ -56,6 +58,7 @@ Professional Services
 ===
 Journal/Conference External Reviewer
 
+* 2022: SIGKDD
 * 2021: TKED, VLDB, SIGKDD, SIGSPATIAL
 * 2020: ICDE, KDD, SIGSPATIAL, CIKM, MDM, DASFAA, IEEE BigData, TheWebConf
 * 2019: KDD, CIKM, SIGSPATIAL
@@ -64,5 +67,5 @@ Contact
 ===
 * Email: liutt@cs.aau.dk
 * Tel: +45 50288578
-* Address: Selma Lagerløfs Vej 300, 3-2-12, 9220 Aalborg Ø, Denmark
+* Address: Universitetsvej 1, 10.1, DK-4000 Roskilde, Denmark
   

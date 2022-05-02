@@ -65,7 +65,7 @@ Journal/Conference External Reviewer
 
 Contact
 ===
-* Email: liutt@cs.aau.dk
+* Email: tliu@ruc.dk
 * Tel: +45 50288578
 * Address: Universitetsvej 1, 10.1, DK-4000 Roskilde, Denmark
   

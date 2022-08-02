@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of People and Technology, Roskilde University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022.  I obtained my BSc (Department of Communication Engineering) and MSc (Department of Computer Science and Technology) degrees from Jilin University, China.
-
-My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
+I am a postdoc in the Department of People and Technology, Roskilde University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022. My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
 
 News
 ===

@@ -12,6 +12,7 @@ I am a postdoc in the Department of People and Technology, Roskilde University (
 
 News
 ===
+\[2023-04\] One paper is accepted by TKDE.
 \[2022-05\] I joined Roskilde University. <br>
 \[2022-04\] I successfully defensed my thesis at Aalborg University. <br>
 \[2022-01\] Our demo paper is accepted by ICDE.
@@ -31,8 +32,9 @@ Selected Recent Publications
 ===
 <!-- See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323) -->
 
-* __T. Liu__, Z. Feng, H. Li, H. Lu, L. Shou, and J. Xu, "IKAROS: An Indoor Keyword-Aware Routing System," accepted by __ICDE__, 2022 (Demo Paper). (__CCF A__)
-* __T. Liu__, Z. Feng, H. Li, H. Lu, M. A. Cheema, H. Cheng, and J. Xu. Towards Indoor Temporal-variation aware Shortest Path Query. __TKDE__, 2021, 14 pages. (to appear)(__CCF A__)
+* __T. Liu__, H. Li, H. Lu, M. A. Cheema, and H. K. Chan. Contact Tracing over Uncertain Indoor Positioning Data. accepted by __TKDE__, 2023. (__CCF A__)
+* __T. Liu__, Z. Feng, H. Li, H. Lu, L. Shou, and J. Xu. IKAROS: An Indoor Keyword-Aware Routing System. __ICDE__, 2022: 3182-3185. (Demo Paper). (__CCF A__)
+* __T. Liu__, Z. Feng, H. Li, H. Lu, M. A. Cheema, H. Cheng, and J. Xu. Towards Indoor Temporal-variation aware Shortest Path Query. __TKDE__, 35(1): 998-1012 (2023). (__CCF A__)
 * __T. Liu__, H. Li, H. Lu, M. A. Cheema, and L. Shou. Towards Crowd-aware Indoor Path Planning. __PVLDB__, 2021: 1365-1377. (__CCF A__)
 * H. K. Chan, __T. Liu__, H. Li, and H. Lu. Time-Constrained Indoor Keyword-aware Routing. __SSTD__, 2021: 74-84. (__Best paper nomination__)
 * __T. Liu__, H. Li, H. Lu, M. A. Cheema, and L. Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. __EDBT__, 2021: 181-192. (__CCF B__)
@@ -54,6 +56,10 @@ Project
 
 Professional Services
 ===
+Program committee member
+
+* 2022: AAAI
+
 Journal/Conference External Reviewer
 
 * 2022: SIGKDD

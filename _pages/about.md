@@ -12,7 +12,7 @@ I am a postdoc in the Department of People and Technology, Roskilde University (
 
 News
 ===
-\[2023-04\] One paper is accepted by TKDE.
+\[2023-04\] One paper is accepted by TKDE. <br>
 \[2022-05\] I joined Roskilde University. <br>
 \[2022-04\] I successfully defensed my thesis at Aalborg University. <br>
 \[2022-01\] Our demo paper is accepted by ICDE.

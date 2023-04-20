@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](https://TiantianLiu-TTL.github.io/files/ltt_CV.pdf).
+

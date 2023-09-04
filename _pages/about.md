@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of People and Technology, Roskilde University (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022. My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
+I am a postdoc in the Department of Computer Science, Aalborg University. Before that, I worked as a postdoc in the Department of People and Technology, Roskilde University. I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
 
 News
 ===
+\[2023-09\] I joined Aalborg University. <br>
 \[2023-04\] One paper is accepted by TKDE. <br>
 \[2022-05\] I joined Roskilde University. <br>
 \[2022-04\] I successfully defensed my thesis at Aalborg University. <br>
@@ -69,7 +70,6 @@ Journal/Conference External Reviewer
 
 Contact
 ===
-* Email: tliu@ruc.dk
+* Email: liutt@cs.aau.dk
 * Tel: +45 50288578
-* Address: Universitetsvej 1, 10.1, DK-4000 Roskilde, Denmark
   

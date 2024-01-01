@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Department of Computer Science, Aalborg University. Before that, I worked as a postdoc in the Department of People and Technology, Roskilde University. I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
+I am an assistant professor in the Department of Computer Science, Aalborg University. I worked as a postdoc in the Department of People and Technology, Roskilde University. I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on AI-based approaches for search on large graphs.
 
 News
 ===

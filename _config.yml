@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tiantian Liu's Personal Page"
 title_separator          : "-"
 name                     : &name "Tiantian Liu"
-description              : &description "Postdoc, Aalborg University"
+description              : &description "Assistant Professor, Aalborg University"
 url                      : https://TiantianLiu-TTL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TiantianLiu-TTL.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tiantian Liu (刘添添)"
   avatar           : "TiantianLiu.jpg"
-  bio              : "Postdoc, Department of Computer Science, Aalborg University, Denmark"
+  bio              : "Assistant Professor, Department of Computer Science, Aalborg University, Denmark"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

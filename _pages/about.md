@@ -46,6 +46,9 @@ Selected Recent Publications
   
 Teaching
 ===
+* Co-lecturer for Course Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
+* Semester coordinator for SW6, Aalborg University (CPH Campus), 2024 Spring.
+* Supervisor for SW6, SW8, Aalborg University (CPH Campus), 2024 Spring.
 * Teaching assistant for Database Development, Aalborg University, 2019-2020.
 * Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
   

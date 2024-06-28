@@ -60,6 +60,7 @@ Professional Services
 ===
 Program committee member
 
+* 2024: MDM
 * 2022: AAAI
 
 Journal/Conference External Reviewer

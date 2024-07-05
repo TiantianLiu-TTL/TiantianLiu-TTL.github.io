@@ -32,12 +32,12 @@ Selected Recent Publications
 ===
 <!-- See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323) -->
 
-* J. Li, __T. Liu__, H. Lu: CLEAR: Ranked Multi-Positive Contrastive Representation Learning for Robust Trajectory Similarity Computation. __MDM__ 2024. (__Best paper runner-up award__)
-* __T. Liu__, H. Li, H. Lu, M. A. Cheema, and H. K. Chan. Contact Tracing over Uncertain Indoor Positioning Data. accepted by __TKDE__, 2023. (__CCF A__)
+* J. Li, __T. Liu__, H. Lu: CLEAR: Ranked Multi-Positive Contrastive Representation Learning for Robust Trajectory Similarity Computation. __MDM__ 2024. (__Best Paper Runner-up Award__)
+* __T. Liu__, H. Li, H. Lu, M. A. Cheema, and H. K. Chan. Contact Tracing over Uncertain Indoor Positioning Data. (Accepted by __TKDE__, 2023) (__CCF A__)
 * __T. Liu__, Z. Feng, H. Li, H. Lu, L. Shou, and J. Xu. IKAROS: An Indoor Keyword-Aware Routing System. __ICDE__, 2022: 3182-3185. (Demo Paper). (__CCF A__)
 * __T. Liu__, Z. Feng, H. Li, H. Lu, M. A. Cheema, H. Cheng, and J. Xu. Towards Indoor Temporal-variation aware Shortest Path Query. __TKDE__, 35(1): 998-1012 (2023). (__CCF A__)
 * __T. Liu__, H. Li, H. Lu, M. A. Cheema, and L. Shou. Towards Crowd-aware Indoor Path Planning. __PVLDB__, 2021: 1365-1377. (__CCF A__)
-* H. K. Chan, __T. Liu__, H. Li, and H. Lu. Time-Constrained Indoor Keyword-aware Routing. __SSTD__, 2021: 74-84. (__Best paper nomination__)
+* H. K. Chan, __T. Liu__, H. Li, and H. Lu. Time-Constrained Indoor Keyword-aware Routing. __SSTD__, 2021: 74-84. (__Best Research Paper Nomination__)
 * __T. Liu__, H. Li, H. Lu, M. A. Cheema, and L. Shou. Indoor Spatial Queries: Modeling, Indexing, and Processing. __EDBT__, 2021: 181-192. (__CCF B__)
 * __T. Liu__, Z. Feng, H. Li, H. Lu, M. A. Cheema, H. Cheng, and J. Xu. Shortest Path Queries for Indoor Venues with Temporal Variations. __ICDE__, 2020: 2014-2017. (__CCF A__)
 * Z. Feng, __T. Liu__, H. Li, H. Lu, and L. Shou, J. Xu. Indoor Top-k Keyword-aware Routing Query. __ICDE__, 2020: 1213-1224. (__CCF A__)

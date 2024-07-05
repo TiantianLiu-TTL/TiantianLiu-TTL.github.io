@@ -10,11 +10,11 @@ redirect_from:
 
 I am an assistant professor in the Department of Computer Science, Aalborg University. I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on data analysis related to moving-object mobility.
 
-News
+<!-- News
 ===
 \[2023-09\] I joined Aalborg University. <br>
 \[2023-04\] One paper is accepted by TKDE. <br>
-\[2022-05\] I joined Roskilde University. <br>
+\[2022-05\] I joined Roskilde University. <br> -->
 
 <!-- Education
 ======
@@ -31,6 +31,7 @@ Selected Recent Publications
 ===
 <!-- See my [VBN at AAU.](https://vbn.aau.dk/en/persons/145323) -->
 
+* J. Li, __T. Liu__, H. Lu: CLEAR: Ranked Multi-Positive Contrastive Representation Learning for Robust Trajectory Similarity Computation. __MDM__ 2024. (__Best paper runner-up award__)
 * __T. Liu__, H. Li, H. Lu, M. A. Cheema, and H. K. Chan. Contact Tracing over Uncertain Indoor Positioning Data. accepted by __TKDE__, 2023. (__CCF A__)
 * __T. Liu__, Z. Feng, H. Li, H. Lu, L. Shou, and J. Xu. IKAROS: An Indoor Keyword-Aware Routing System. __ICDE__, 2022: 3182-3185. (Demo Paper). (__CCF A__)
 * __T. Liu__, Z. Feng, H. Li, H. Lu, M. A. Cheema, H. Cheng, and J. Xu. Towards Indoor Temporal-variation aware Shortest Path Query. __TKDE__, 35(1): 998-1012 (2023). (__CCF A__)
@@ -49,12 +50,21 @@ Teaching
 * Co-lecturer for Course Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
 * Semester coordinator for SW6, Aalborg University (CPH Campus), 2024 Spring.
 * Supervisor for SW6, SW8, Aalborg University (CPH Campus), 2024 Spring.
+* Teaching assistant for Database System, Aalborg University (CPH Campus), 2023 August.
 * Teaching assistant for Database Development, Aalborg University, 2019-2020.
 * Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
-  
-Project
+
+Awards/Honors
 ===
-[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io)
+* Supervisor of the Year Award Nomination, Computer Science at AAU, 2024
+* Best Paper Runner-up Award, IEEE MDM, 2024
+* Best Research Paper Nomination, SSTD, 2021
+* EDBT Summer School, Travel Grant, 2019
+* WIDS Copenhagen, Travel Grant, 2019
+  
+<!--Project
+===
+[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io) -->
 
 Professional Services
 ===

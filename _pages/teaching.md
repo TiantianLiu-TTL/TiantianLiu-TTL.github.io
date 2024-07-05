@@ -7,9 +7,9 @@ author_profile: true
 
 Courses
 ===
-Co-lecturer, Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
-Teaching Assistant, Database System, Aalborg University (CPH Campus), 2023 August.
-Teaching Assistant, Database Development, Aalborg University, 2019, 2020.
+* Co-lecturer, Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
+* Teaching Assistant, Database System, Aalborg University (CPH Campus), 2023 August.
+* Teaching Assistant, Database Development, Aalborg University, 2019, 2020.
 
 Group Project Supervision
 ===

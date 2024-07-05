@@ -65,8 +65,8 @@ Awards/Honors
   
 Project
 ===
-Horizon European Framework Program (HORIZON), MobiSpaces: New Data Spaces for Green Mobility.(Main Participant)
-[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io) (Main Participant)
+* Horizon European Framework Program (HORIZON), MobiSpaces: New Data Spaces for Green Mobility.(Main Participant)
+* [Data Management Foundations for Indoor LBS](https://indoorlbs.github.io) (Main Participant)
 
 
 Professional Services

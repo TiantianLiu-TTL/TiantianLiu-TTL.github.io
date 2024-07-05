@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Department of Computer Science, Aalborg University. I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on data analysis related to moving-object mobility.
+I am an assistant professor in the Department of Computer Science at Aalborg University Copenhagen (AAU CPH). I am part of the Data Engineering, Science and Systems ([DESS](https://www.cs.aau.dk/research/dess-data-engineering-science-and-systems/about-dess)) group headed by Prof. [Christian S. Jensen](https://csj.cs.aau.dk/). 
+I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022 (advised by Prof. [Hua Lu](https://luhua.ruc.dk/)). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on data analysis related to moving-object mobility.
 
 <!-- News
 ===
@@ -62,9 +63,11 @@ Awards/Honors
 * EDBT Summer School, Travel Grant, 2019
 * WIDS Copenhagen, Travel Grant, 2019
   
-<!--Project
+Project
 ===
-[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io) -->
+Horizon European Framework Program (HORIZON), MobiSpaces: New Data Spaces for Green Mobility.(Main Participant)
+[Data Management Foundations for Indoor LBS](https://indoorlbs.github.io) (Main Participant)
+
 
 Professional Services
 ===
@@ -81,6 +84,26 @@ Journal/Conference External Reviewer
 * 2021: TKED, VLDB, SIGKDD, SIGSPATIAL
 * 2020: ICDE, KDD, SIGSPATIAL, CIKM, MDM, DASFAA, IEEE BigData, TheWebConf
 * 2019: KDD, CIKM, SIGSPATIAL
+
+Acknowledgements
+===
+Tiantian would like to thank all her co-authors/cooperators for their guide and inspiration.
+
+* [Christian S. Jensen](https://csj.cs.aau.dk/)
+* [Harry Kai-Ho Chan](https://harryckh.github.io/)
+* [Hengyu Liu](https://hengyuliu.com/)
+* [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/)
+* [Hua Lu](https://luhua.ruc.dk/)
+* [Huan Li](https://longaspire.github.io/)
+* [Jialiang Li](https://forskning.ruc.dk/en/persons/jiali)
+* [Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/)
+* [Kristian Torp](https://vbn.aau.dk/da/persons/torp)
+* [Lidan Shou](https://person.zju.edu.cn/en/should)
+* [Muhammad Aamir Cheema](http://www.aamircheema.com/)
+* [Tianyi Li](https://tianyili.net/)
+* [Xiao Li](https://www.linkedin.com/in/xiao-li-56439b257/?originalSubdomain=dk)
+* [Zijin Feng](https://scholar.google.com/citations?user=VHfMOkkAAAAJ&hl=en)
+  
 
 Contact
 ===

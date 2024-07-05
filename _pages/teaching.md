@@ -5,14 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Courses
-===
+### Courses
 * Co-lecturer, Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
 * Teaching Assistant, Database System, Aalborg University (CPH Campus), 2023 August.
 * Teaching Assistant, Database Development, Aalborg University, 2019, 2020.
 
-Group Project Supervision
-===
+### Group Project Supervision
 * Supervisor, SW8 Project (Topic: Rides Through Time and Space: Similar Trajectory Search for Ride Sharing), Aalborg University (CPH Campus), 2024 Spring. (4 students)
 * Supervisor, SW6 Project (Topic: Ski-Route Planner: Using Intelligent Systems For Dynamic Piste Recommendation), Aalborg University (CPH Campus), 2024 Spring. (4 students)
 * Supervisor, SW6 Project (Topic: Open Braille Translator: Multi-purpose braille display firmware for Unified English Braille), Aalborg University (CPH Campus), 2024 Spring. (1 student)
@@ -25,8 +23,7 @@ Group Project Supervision
 * Co-supervisor, SW6 Project (Topic: GIRAF), Aalborg University, 2019 Spring. (2 * 4 students) 
 
   
-Administration
-===
+### Administration
 Semester coordinator, SW6, Aalborg University (CPH Campus), 2024 Spring.
 
 

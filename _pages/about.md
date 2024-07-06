@@ -71,7 +71,7 @@ Project
 
 Professional Services
 ===
-Program committee member
+Program Committee Member
 
 * 2024: MDM, SIGSPATIAL
 * 2022: AAAI

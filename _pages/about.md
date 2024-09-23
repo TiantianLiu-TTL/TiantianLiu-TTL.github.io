@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an assistant professor in the Department of Computer Science at Aalborg University Copenhagen (AAU CPH). I am in the Data Engineering, Science and Systems ([DESS](https://www.cs.aau.dk/research/dess-data-engineering-science-and-systems/about-dess)) group headed by Prof. [Christian S. Jensen](https://csj.cs.aau.dk/). 
-I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022, advised by Prof. [Hua Lu](https://luhua.ruc.dk/). My research generally concerns graph search, spatial database, data management, and data science. Recently, I have been working on Queries for Indoor Location-based Services (LBSs). My current work focuses on data analysis related to moving-object mobility.
+I obtained the Ph.D. degree from Aalborg University (Department of Computer Science) in 2022, advised by Prof. [Hua Lu](https://luhua.ruc.dk/). I worked on Queries for Indoor Location-based Services (LBSs) during my PhD study. My current work focuses on data analysis related to moving-object mobility. My research generally concerns graph search, spatial database, data management, and data science.  
 
 <!-- News
 ===
@@ -21,12 +21,14 @@ I obtained the Ph.D. degree from Aalborg University (Department of Computer Scie
 ======
 * PhD in Computer Science, Aalborg University, Denmark, 2022.
 * MSc in Computer Science and Technology, Jilin University, China, 2018.
-* BSc in Communication Engineering, Jilin University, China, 2015. -->
+* BSc in Communication Engineering, Jilin University, China, 2015. 
+-->
 
 <!-- International Study Experience
 =====
 * Apr. 2021 - Aug. 2021: Abroad (virtual) stay in the Faculty of Information Technology, Monash University, Australia.
-* Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia. -->
+* Sep. 2016 - Jul. 2017: Joint training of Postgraduate Student in the Department of Computer Science and Technology, ITMO University, St Petersburg, Russia. 
+-->
 
 Selected Recent Publications
 ===
@@ -44,14 +46,16 @@ Selected Recent Publications
 
 <!-- Technical Reports
 * __Tiantian Liu__, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. Towards Crowd-aware Indoor Path Planning(Extended Version). CoRR abs/2104.05480 (2021).
-* __Tiantian Liu__, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020) -->
+* __Tiantian Liu__, Huan Li, Hua Lu, Muhammad Aamir Cheema, Lidan Shou. An Experimental Analysis of Indoor Spatial Queries: Modeling, Indexing, and Processing. CoRR abs/2010.03910 (2020) 
+-->
   
 Teaching
 ===
+* Lecturer for Course Database System (Bachelor Level), Aalborg University (CPH Campus), 2024 Fall.
 * Co-lecturer for Course Mobile Data and Location-based Services (Master Level), Aalborg University (CPH Campus), 2024 Spring.
 * Semester coordinator for SW6, Aalborg University (CPH Campus), 2024 Spring.
 * Supervisor for SW6, SW8, Aalborg University (CPH Campus), 2024 Spring.
-* Teaching assistant for Database System, Aalborg University (CPH Campus), 2023 August.
+* Teaching assistant for Database System, Aalborg University (CPH Campus), 2023 Fall.
 * Teaching assistant for Database Development, Aalborg University, 2019-2020.
 * Supervisor for SW3, SW6, SW7 and BaIT4 groups, Aalborg University, 2019-2020.
 
@@ -87,7 +91,7 @@ Journal/Conference External Reviewer
 
 Acknowledgements
 ===
-Tiantian would like to thank all her co-authors/cooperators for their guide and inspiration.
+Tiantian would like to thank all her co-authors for their guide and inspiration.
 
 * [Christian S. Jensen](https://csj.cs.aau.dk/)
 * [Harry Kai-Ho Chan](https://harryckh.github.io/)

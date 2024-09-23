@@ -109,5 +109,5 @@ Contact
 ===
 * Email: liutt@cs.aau.dk
 * Office: A.C. Meyers Vænge 15, Room 2.2.090, Copenhagen, Denmark
-* Tel: +45 50288578
+
   

@@ -64,8 +64,7 @@ Awards/Honors
 * Supervisor of the Year Award Nomination, Computer Science at AAU, 2024
 * Best Paper Runner-up Award, IEEE MDM, 2024
 * Best Research Paper Nomination, SSTD, 2021
-* EDBT Summer School, Travel Grant, 2019
-* WIDS Copenhagen, Travel Grant, 2019
+  
   
 Project
 ===
